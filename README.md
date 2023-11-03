@@ -1,4 +1,4 @@
-## Projet datacuisiniers : Quantify the actor success ##
+## Projet datacuisiniers : Quantify the actors success ##
 5 different notebooks (one for all member) and a final notebook will be available before 17 November. 
 
 
