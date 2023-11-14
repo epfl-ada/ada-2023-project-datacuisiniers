@@ -33,24 +33,22 @@ Supervised ML methods will help us predict success from input features and creat
 
 # Timeline : #
 
-Proposition:
-Now - December: Each team member works on their definition of success
-  Malo: Presence in many movies/longevity?
-  Nino: Revenues
-  Quentin: Google trends?
-  Anaëlle: Awards?
-  Pascal: Ratings
+Until the end of P2 : Each team member works on their definition of success
 
-December: 
-  We group our analysis and see whether there are trade-off in success. Do the same features guarantee success along many dimensions?
-  Based on our results, work on interactive tools described above
+End of november : 
+We group our analysis and see whether there are trade-off in success. Do the same features guarantee success along many dimensions? 
+Based on our results, work on interactive tools described above
 
-December - January: Text and writing of the story
+December : Text and writing of the story
 
 //insert Gantt diagram
 
 # Organization within the team : #
 
-//insert
+  Malo: Presence in many movies/longevity?
+  Nino: Revenues
+  Quentin: Google trends?
+  Anaëlle: Awards?
+  Pascal: Ratings
 
 ada-2023-project-datacuisiniers created by GitHub Classroom
