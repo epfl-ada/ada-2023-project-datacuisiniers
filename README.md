@@ -41,6 +41,16 @@ December : Text and writing of the story
 
 //insert Gantt diagram
 
+| Task                        | Start Date | End Date   |
+|-----------------------------|------------|------------|
+| Until the End of P2         |  -         | P2 Deadline|
+| Define Success Criteria     |  -         | P2 Deadline|
+| End of November Analysis    | P2 Deadline| End of Nov  |
+| Group Analysis              | End of Nov | End of Nov  |
+| Develop Interactive Tools   | End of Nov | End of Nov  |
+| December Writing            | Dec 1      | Dec 31     |
+| Finalize Project             | Dec 31     | Dec 31     |
+
 # Organization within the team : #
 
   | Nutsa | Anaëlle | Pascal | Quentin | Malo |
