@@ -43,15 +43,10 @@ December : Text and writing of the story
 
 # Organization within the team : #
 
-  | Header 1 | Header 2 | Header 3 |
+  | Nutsa | Anaëlle | Pascal | Quentin | Malo |
 |----------|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Revenues | Awards | Ratings | Trends | Longevity |
+| Plot analysis | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 3 | Row 2, Col 3 |
   
-  Malo: Presence in many movies/longevity?
-  Nino: Revenues
-  Quentin: Google trends?
-  Anaëlle: Awards?
-  Pascal: Ratings
 
 ada-2023-project-datacuisiniers created by GitHub Classroom
