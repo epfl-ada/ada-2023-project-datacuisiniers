@@ -47,7 +47,7 @@ December : Text and writing of the story
 | Grouping of our Analysis    | End of Nov | End of Nov  |
 | Develop Interactive Tools   | End of Nov | Mid-December  |
 | Develop the storyline       | Mid-December     | P3 Deadline    |
-| Finalize Project and Website    | Mid-December   | P3 Deadline   |
+| Finalize Project and Webpage    | Mid-December   | P3 Deadline   |
 
 # Organization within the team : #
 
