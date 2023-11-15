@@ -39,7 +39,6 @@ Based on our results, work on interactive tools described above
 
 December : Text and writing of the story
 
-//insert Gantt diagram
 
 | Task                        | Start Date | End Date   |
 |-----------------------------|------------|------------|
