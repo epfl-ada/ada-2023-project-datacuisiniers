@@ -44,7 +44,7 @@ December : Text and writing of the story
 # Organization within the team : #
 
   | Nutsa | Anaëlle | Pascal | Quentin | Malo |
-|----------|----------|----------|
+|----------|----------|----------|----------|----------|
 | Revenues | Awards | Ratings | Trends | Longevity |
 | Plot analysis | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 3 | Row 2, Col 3 |
   
