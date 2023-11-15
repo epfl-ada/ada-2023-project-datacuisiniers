@@ -43,13 +43,12 @@ December : Text and writing of the story
 
 | Task                        | Start Date | End Date   |
 |-----------------------------|------------|------------|
-| Until the End of P2         |  -         | P2 Deadline|
-| Define Success Criteria     |  -         | P2 Deadline|
-| End of November Analysis    | P2 Deadline| End of Nov  |
-| Group Analysis              | End of Nov | End of Nov  |
-| Develop Interactive Tools   | End of Nov | End of Nov  |
-| December Writing            | Dec 1      | Dec 31     |
-| Finalize Project             | Dec 31     | Dec 31     |
+| Define Success Criteria and first analyses   |  -         | P2 Deadline|
+| Continue Analysis of Success incorporating feedback  | P2 Deadline| End of Nov  |
+| Grouping of our Analysis    | End of Nov | End of Nov  |
+| Develop Interactive Tools   | End of Nov | Mid-December  |
+| Develop the storyline       | Mid-December     | P3 Deadline    |
+| Finalize Project and Website    | Mid-December   | P3 Deadline   |
 
 # Organization within the team : #
 
