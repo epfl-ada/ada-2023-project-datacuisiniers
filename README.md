@@ -51,28 +51,14 @@ Another possibility to take into account to model an actor’s success can be th
 
 # Organization within the team : #
 
-| Teammate                        | Analysis | Steps   |
-|-----------------------------|------------|------------|
-| Nutsa          | Revenues      | 
-1) plot analysis
-2) insights
-3) test      |
-| Anaëlle        | Awards        | 
-1) awards analysis 
-2) insights
-3) test     |
-| Pascal         | Ratings       | 
-1) ratings
-2) insights
-3) test      |
-| Quentin        | Trends        | 
-1) Google trends
-2) insights
-3) test    |
-| Malo           | Longevity     | 
-1) Preprocessing data for longevity analysis
-2) Frequency, career span and number of movies plots
-3) Regression and combination between factors |
+| Teammate | Analysis                                       | Steps                                                |
+|----------|-------------------------------------------------|------------------------------------------------------|
+| Nutsa    | Revenues<br>plot analysis<br>insights<br>test   |                                                      |
+| Anaëlle  | Awards<br>awards analysis<br>insights<br>test   |                                                      |
+| Pascal   | Ratings<br>ratings analysis<br>insights<br>test |                                                      |
+| Quentin  | Trends<br>Google trends<br>insights<br>test     |                                                      |
+| Malo     | Longevity<br>Preprocessing data for longevity analysis<br>Frequency, career span and number of movies plots<br>Regression and combination between factors | |
+
 
   
 
