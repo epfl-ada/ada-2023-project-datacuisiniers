@@ -23,7 +23,7 @@ Through our analysis, we aim to offer a nuanced understanding of what drives an 
 # Methods : #
 
 First, we tried to find insights concerning the longevity of the actors and the number of appearances they have. We identified two main limits of this analysis : it is unequal through time and geographically. 
-E plan on using regressions to see the correlation between our variables and success indices, including interactions of relevant variables (eg. age may matter more for women than men). We will look at R squared to see what models explains most of someone’s success.
+We plan on using regressions to see the correlation between our variables and success indices, including interactions of relevant variables (eg. age may matter more for women than men). We will look at R squared to see what models explains most of someone’s success.
 
 Supervised ML methods will help us predict success from input features and create an interactive tool where users choose their input and how they view success.
 
@@ -31,22 +31,13 @@ Supervised ML methods will help us predict success from input features and creat
 
 # Timeline : #
 
-Until the end of P2 : Each team member works on their definition of success
-
-End of november : 
-We group our analysis and see whether there are trade-off in success. Do the same features guarantee success along many dimensions? 
-Based on our results, work on interactive tools described above
-
-December : Text and writing of the story
-
-
 | Task                        | Start Date | End Date   |
 |-----------------------------|------------|------------|
 | Define Success Criteria and first analyses   |  -         | P2 Deadline|
 | Continue Analysis of Success incorporating feedback  | P2 Deadline| End of Nov  |
 | Grouping of our Analysis    | End of Nov | End of Nov  |
 | Develop Interactive Tools   | End of Nov | Mid-December  |
-| Develop the storyline       | Mid-December     | P3 Deadline    |
+| Develop the storyline       | December     | P3 Deadline    |
 | Finalize Project and Webpage    | Mid-December   | P3 Deadline   |
 
 # Organization within the team : #
