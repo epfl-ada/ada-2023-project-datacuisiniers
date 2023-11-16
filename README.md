@@ -17,7 +17,7 @@ Through our analysis, we aim to offer a nuanced understanding of what drives an 
 
 # Proposed additional datasets : #
 - [Oscars dataset](https://www.kaggle.com/datasets/unanimad/the-oscar-award)
-- IMDb ratings
+- [IMDb ratings](https://developer.imdb.com/non-commercial-datasets/)
 - Scraped data from Google trends score 
 
 # Methods : #
