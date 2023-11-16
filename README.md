@@ -29,6 +29,13 @@ Supervised ML methods will help us predict success from input features and creat
 
 //insert other parts
 
+### Personna Analysis
+
+A comprehensive method to gauge an actor's performance and success involves assessing the diversity of personas and character types they can convincingly portray. One effective approach for this analysis draws inspiration from the research paper titled "Learning Latent Personas of Film Characters" by David Bamman, Brendan O’Connor, and Noah A. Smit.
+The study proposes utilizing the Dirichlet persona model to extract personas from agent verbs, patient verbs, and attributes associated with a character. The Dirichlet model employs soft clustering on words to create topics based on contextual similarity. This soft clustering extends from topics to personas, enabling a subsequent hard clustering from characters to personas.
+By associating a specific persona type with a character, it becomes possible to analyze the range of personas embodied by the actor. This analysis involves evaluating the number of persona clusters in which the actor has played a role. Subsequently, correlations can be drawn between the actor's success score and the diversity of personas they have convincingly portrayed. This approach provides a nuanced understanding of an actor's versatility and its potential impact on their overall success in the industry.
+
+
 # Timeline : #
 
 | Task                        | Start Date | End Date   |
