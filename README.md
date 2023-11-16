@@ -22,12 +22,11 @@ Through our analysis, we aim to offer a nuanced understanding of what drives an 
 
 # Methods : #
 
-First, we tried to find insights concerning the longevity of the actors and the number of appearances they have. We identified two main limits of this analysis : it is unequal through time and geographically. 
 We plan on using regressions to see the correlation between our variables and success indices, including interactions of relevant variables (eg. age may matter more for women than men). We will look at R squared to see what models explains most of someone’s success.
 
 Supervised ML methods will help us predict success from input features and create an interactive tool where users choose their input and how they view success.
 
-//insert other parts
+
 
 ### Personna Analysis
 
@@ -35,6 +34,9 @@ A comprehensive method to gauge an actor's performance and success involves asse
 The study proposes utilizing the Dirichlet persona model to extract personas from agent verbs, patient verbs, and attributes associated with a character. The Dirichlet model employs soft clustering on words to create topics based on contextual similarity. This soft clustering extends from topics to personas, enabling a subsequent hard clustering from characters to personas.
 By associating a specific persona type with a character, it becomes possible to analyze the range of personas embodied by the actor. This analysis involves evaluating the number of persona clusters in which the actor has played a role. Subsequently, correlations can be drawn between the actor's success score and the diversity of personas they have convincingly portrayed. This approach provides a nuanced understanding of an actor's versatility and its potential impact on their overall success in the industry.
 
+### Longevity Analysis
+
+Another possibility to take into account to model an actor’s success can be through its longevity in the movie industry. In fact, we are trying to identify correlations between an actor's movie count, career span, and appearance frequency in films. This analysis addresses potential limitations related to geographical location (country of distribution), gender and historical periods, but we will try to make regression between them after having insights about the datas.
 
 # Timeline : #
 
