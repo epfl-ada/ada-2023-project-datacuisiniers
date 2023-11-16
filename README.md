@@ -41,11 +41,11 @@ By associating a specific persona type with a character, it becomes possible to 
 | Task                        | Start Date | End Date   |
 |-----------------------------|------------|------------|
 | Define Success Criteria and first analyses   |  -         | P2 Deadline|
-| Continue Analysis of Success incorporating feedback  | P2 Deadline| End of Nov  |
-| Grouping of our Analysis    | End of Nov | End of Nov  |
-| Develop Interactive Tools   | End of Nov | Mid-December  |
-| Develop the storyline       | December     | P3 Deadline    |
-| Finalize Project and Webpage    | Mid-December   | P3 Deadline   |
+| Continue Analysis of Success incorporating feedback  | P2 Deadline| 24 Nov |
+| Grouping of our Analysis    | 24 Nov | 30 Nov  |
+| Develop Interactive Tools   | 30 Nov | 15 Dec  |
+| Develop the storyline       | 30 Nov     | P3 Deadline    |
+| Finalize Project and Webpage    | 15 Dec   | P3 Deadline   |
 
 # Organization within the team : #
 
