@@ -51,10 +51,12 @@ Another possibility to take into account to model an actor’s success can be th
 
 # Organization within the team : #
 
-  | Nutsa | Anaëlle | Pascal | Quentin | Malo |
-|----------|----------|----------|----------|----------|
-| Revenues | Awards | Ratings | Trends | Longevity |
-| Plot analysis | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 3 | Row 2, Col 3 |
+| Nutsa          | Revenues      | plot analysis <br> insights <br> test      |
+| Anaëlle        | Awards        | awards analysis <br> insights <br> test     |
+| Pascal         | Ratings       | ratings <br> insights <br> test      |
+| Quentin        | Trends        | Google trends <br> insights <br> test    |
+| Malo           | Longevity     | 1) Preprocessing data for longevity analysis <br> 2) Frequency, career span and number of movies plots <br> 3) Regression and combination between factors |
+
   
 
 ada-2023-project-datacuisiniers created by GitHub Classroom
