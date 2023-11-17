@@ -62,8 +62,8 @@ Success for an actor can also be seen as the fact that people are talking about 
 
 | Teammate | Analysis                                       | Steps                                                |
 |----------|-------------------------------------------------|------------------------------------------------------|
-| Nino | Plot analysis: Persona Analysis  | plot analysis<br>1) From ccprocessed dependencies in Standford CoreNLP dataset extract the agent verbs, patient verbs, and attributes as described in the paper. 2) Generate couples of {(agent verbs, patient verbs, attributes), word lemma} 3) apply Dirichlet model for clustering|
-| Nino | Leading character classification  | plot analysis<br> 1) Analyse the frequency of the character name appearance in the plot summary 2) Merge with the Characters dataset 3) Separate main characters from secondary character <br>test |
+| Nino | Plot analysis: Persona Analysis  | 1) From ccprocessed dependencies in Standford CoreNLP dataset extract the agent verbs, patient verbs, and attributes as described in the paper. 2) Generate couples of {(agent verbs, patient verbs, attributes), word lemma} 3) apply Dirichlet model for clustering|
+| Nino | Leading character classification  | 1) Analyse the frequency of the character name appearance in the plot summary 2) Merge with the Characters dataset 3) Separate main characters from secondary character <br>test |
 | Nino & Anaëlle | Revenues | 1) Creating cumulated movie revenues by actor <br> 2) Assessing the causal effect of movie and actor characteristics on cumulated revenues using regressions  <br> 3) Identifying and understanding the contributing features |
 | Anaëlle | Awards | 1) Including datasets on Oscars <br> 2) Using supervised ML to predict awards reception <br> 3) Exploring the bias of the results and improving them with more exhaustive datasets |
 | Pascal | Ratings | 1) Preprocessing datasets for ratings analysis<br> 2) Compute ratings for actors<br>3) Initial plots for analysis<br> |
