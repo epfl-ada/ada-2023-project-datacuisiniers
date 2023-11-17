@@ -34,6 +34,10 @@ A comprehensive method to gauge an actor's performance and success involves asse
 The study proposes utilizing the Dirichlet persona model to extract personas from agent verbs, patient verbs, and attributes associated with a character. The Dirichlet model employs soft clustering on words to create topics based on contextual similarity. This soft clustering extends from topics to personas, enabling a subsequent hard clustering from characters to personas.
 By associating a specific persona type with a character, it becomes possible to analyze the range of personas embodied by the actor. This analysis involves evaluating the number of persona clusters in which the actor has played a role. Subsequently, correlations can be drawn between the actor's success score and the diversity of personas they have convincingly portrayed. This approach provides a nuanced understanding of an actor's versatility and its potential impact on their overall success in the industry.
 
+### Ratings Analysis
+
+The performance of an actor can greatly differ from a movie to another and it can be easily seen through the movie's ratings. Even though a rating is attributed to the movie in its globality, it can also reflect how well the actors played to some extent and we want to find out how much the movies' ratings can tell about an actor. The analysis will take into account limitations concerning the number of votes for ratings, the number of movies in which an actor has played and other parameters that can skew the data in order to quantify the success and combine the insights with the other perspectives.
+
 ### Longevity Analysis
 
 Another possibility to take into account to model an actor’s success can be through its longevity in the movie industry. In fact, we are trying to identify correlations between an actor's movie count, career span, and appearance frequency in films. This analysis addresses potential limitations related to geographical location (country of distribution), gender and historical periods, but we will try to make regression between them after having insights about the datas.
