@@ -38,6 +38,10 @@ By associating a specific persona type with a character, it becomes possible to 
 
 Another possibility to take into account to model an actor’s success can be through its longevity in the movie industry. In fact, we are trying to identify correlations between an actor's movie count, career span, and appearance frequency in films. This analysis addresses potential limitations related to geographical location (country of distribution), gender and historical periods, but we will try to make regression between them after having insights about the datas.
 
+### Google Trends Score Analysis
+
+Success for an actor can also be seen as the fact that people are talking about him or her a lot. One way of estimating this is to see whether an actor's name is highly searched on the Internet. This can be done using the Google Trends service. One of the main difficulties with this approach is managing to extract data from Google for a hundred thousand actors. This method also suffers from certain biases. For example, an actor's name may be highly searched on the Internet for reasons unrelated to his or her acting career. As the film industry has existed since long before the Google search service was introduced, older actors find themselves disavowed by this assessment. It should also be pointed out that Google is not the only browser, so people who use other ones are under-represented in this rating.
+
 # Timeline : #
 
 | Task                        | Start Date | End Date   |
