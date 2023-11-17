@@ -62,7 +62,8 @@ Success for an actor can also be seen as the fact that people are talking about 
 
 | Teammate | Analysis                                       | Steps                                                |
 |----------|-------------------------------------------------|------------------------------------------------------|
-| Nino | Revenues | plot analysis<br>insights<br>test |
+| Nino | Plot analysis | plot analysis<br>insights<br>test |
+| Nino & Anaëlle | Revenues | 1) Creating cumulated movie revenues by actor <br> 2) Assessing the causal effect of movie and actor characteristics on cumulated revenues using regressions  <br> 3) Identifying and understanding the contributing features |
 | Anaëlle | Awards | 1) Including datasets on Oscars <br> 2) Using supervised ML to predict awards reception <br> 3) Exploring the bias of the results and improving them with more exhaustive datasets |
 | Pascal | Ratings | ratings analysis<br>insights<br>test |
 | Quentin | TrendsGoogle | trends<br>insights<br>test |
