@@ -1,101 +1,501 @@
 Actor name,Freebase actor ID,Trends score
-Tom Cruise,/m/07r1h,1000000.0
-Jason Statham,/m/034hyc,354927.0072992701
-Ice Cube,/m/01vw26l,309306.56934306567
-Albert Hall,/m/01lntp,85310.2189781022
-Willem Dafoe,/m/01f7dd,74817.51824817517
-Christopher Walken,/m/016fjj,61587.59124087592
-Seth Green,/m/0gz5hs,27079.658915915592
-Asia Argento,/m/028pzq,23750.5999299223
-Matt Stone,/m/01_x6d,21514.664790076058
-Pam Grier,/m/0418ft,20570.603286585425
-Bob Weir,/m/02v1vq,12794.517744675715
-Les Claypool,/m/0dw3l,11974.674860065428
-Duane Davis,/m/03nrwdy,11336.619275409275
-Natasha Henstridge,/m/0346l4,9291.552692249938
-Brad William Henke,/m/02q288g,9080.798124567105
-Müjde Ar,/m/04fd3kh,9043.115454489245
-Peter Jason,/m/03d663h,8595.928426519997
-Clea DuVall,/m/01y9xg,6707.805419538725
-Annabella Sciorra,/m/0338ws,4993.58847898994
-Yoshitaka Amano,/m/02149s,4496.714003468553
-Gretchen Mol,/m/02l6dy,4223.433041931789
-Joanna Cassidy,/m/06lj1m,3105.465472008669
-Miranda July,/m/06s5pl,2417.2143052828214
-Robert Carradine,/m/026qxz,2340.749895340777
-John Lurie,/m/01nz7jg,2287.4954566748693
-Amy French,/m/0dm38rk,2191.0010505053688
-Gudrun Landgrebe,/m/09d6hv,1926.4098219485766
-John Hawkes,/m/0785v8,1818.2690857964872
-Miles Thompson,/m/0k0jml,1509.8658813293682
-Fredric March,/m/0h1_w,1165.7402979664444
-Arj Barker,/m/01qbb_,1069.2898749477704
-Florence Rice,/m/041b8d,1066.9083830213833
-Meiko Kaji,/m/0576kw,1021.66003642003
-Lobo Sebastian,/m/0bgchsp,950.2152786284195
-Melvyn Douglas,/m/015gy7,795.4183034132634
-Wanda De Jesus,/m/03wcfv7,654.9102797564294
-Mathieu Carrière,/m/06prxs,617.9971548974306
-ZaSu Pitts,/m/01lr4p,615.6156629710437
-Rod Britt,/m/0lr37gh,610.8526791182696
-Tracy Wright,/m/0cc9plh,607.2804412286893
-Anne Krigsvoll,/m/04ghdvq,519.1652399523696
-Ellen Geer,/m/0d15j6,514.4022560995955
-Rosemary Forsyth,/m/03wc_yl,487.2149103424242
-Alice Barrett,/m/034dbm,422.7148169336954
-Erwin Geschonneck,/m/02qyp1n,301.2587286879575
-Hector Elias,/m/05pxr49,294.1142529087965
-Judi Evans,/m/034c1p,289.3512690560225
-Rodney A. Grant,/m/03ydsb,286.9697771296355
-Hanns Zischler,/m/09k3x_,251.2473982338302
-Juzo Itami,/m/02d7rn,239.33993860189514
-Brandon Ratcliff,/m/0287qtg,238.33953895071076
-Allen Cutler,/m/0h8pnlw,232.19546282273407
-Dian Bachar,/m/05wxzz,225.05098704357303
-Yoshio Harada,/m/0chg_3,214.33427337483147
-Najarra Townsend,/m/0k0jn4,207.18979759567043
-Ruth Chatterton,/m/0173p_,185.75637025818727
-Richard Cetrone,/m/0bgcht7,183.37487833180026
-Doug McGrath,/m/02r5d3j,178.61189447902623
-Sirena Irwin,/m/094qth,142.88951558322097
-Brad Greenquist,/m/0k1vd2,136.8494630321818
-Gary Dubin,/m/02pnjkh,135.74503980405996
-Brad Heller,/m/0clffnj,134.5542938408664
-Graham McNamee,/m/07g4h_,114.47156341685647
-Liam Waite,/m/0ks8b0,113.61087497011317
-Jeff Juday,/m/0ddztn,109.38362917317545
-Kazuko Yoshiyuki,/m/05zs55n,107.87295199182465
-Sam Maccarone,/m/03cxtgs,106.8615215007365
-Frank Krog,/m/053j7xf,105.57778280050923
-Robert Catrini,/m/0gbxsl5,96.64292236607264
-Kyle McCulloch,/m/02cm2m,89.79849461021573
-Aleksandr Novikov,/m/0g4_nb_,88.93780616347244
-Cliff DeYoung,/m/07jbhb,86.9878848801727
-Colette Kilroy,/m/0bg70sm,72.29782952643566
-Kimmy Suzuki,/m/0gdk_8f,70.00266033512025
-JoNell Kennedy,/m/0g98ds4,69.71576418620583
-Rick Edelstein,/m/0bgcj4f,67.44004558125748
-Carlie Westerman,/m/0jtg3n,67.42059499489041
-Kristin Kajander,/m/0gct1by,66.18952560763174
-Hildy Brooks,/m/0gc9cpb,62.54336046334515
-Julia Granstrom,/m/08w75d,46.477176124137216
-Natasha Slayton,/m/026zpch,46.477176124137216
-J. Patrick McCormack,/m/03z8yd9,41.88683774150637
-Vidar Sandem,/m/0bwh7d8,41.88683774150637
-Chris Krisea,/m/0gcdnn4,0.0
-Tsifan Kyriya,/m/0g4_ncv,0.0
-Nikolai Batalov,/m/0jt1lz,0.0
-Georgiy Zhzhonov,/m/07kt8y,0.0
-Ekaterina Zelyonaya,/m/09rnmn,0.0
-Regina Yanushkevich,/m/0g4_nd0,0.0
-Vladimir Uralsky,/m/0jt1q2,0.0
-Viktor Lazarev,/m/0g4_ncy,0.0
-Shin Kishida,/m/03ccs9p,0.0
-Bozhak Besprizornykh,/m/0g4_ncr,0.0
-Vladimir Vesnovsky,/m/0g4_ncc,0.0
-Mariya Andropova,/m/0g4_nc5,0.0
-Mikhail Zharov,/m/07m08h,0.0
-Mikhail Dzhagofarov,/m/0g4_nbq,0.0
-Yvan Kyrlya,/m/05zqdwf,0.0
-James Kayten,/m/0g98dwd,0.0
-Mariya Gonfa,/m/0g4_nck,0.0
+Amar,/m/0dj2nf2,1481704.49282075
+Tom Cruise,/m/07r1h,1000000
+Snoop Dogg,/m/01vw8mh,434923.575729504
+Jason Statham,/m/034hyc,354330.708661417
+Mukesh,/m/0bwqq2,350162.11208893
+Ice Cube,/m/01vw26l,311718.388142659
+Al Pacino,/m/0bj9k,271421.954608615
+Kirstie Alley,/m/01wc7p,225919.439579685
+Jamie Lee Curtis,/m/0hwqz,221900.347624565
+Antonio Banderas,/m/0436kgz,183418.24918944
+Prithvi,/m/04n2_0f,169059.749884206
+Kevin Spacey,/m/048lv,110236.220472441
+Charles Bronson,/m/01dkpb,96804.0759610931
+Mohanlal,/m/02fbpz,85224.6410375174
+Albert Hall,/m/01lntp,84761.4636405743
+Mumtaz,/m/06s6xv,81519.2218619731
+Willem Dafoe,/m/01f7dd,75034.7383047707
+Patrick Dempsey,/m/034x61,73645.2061139416
+Carrie Fisher,/m/01tnbn,62992.125984252
+Sharon Tate,/m/0c5qr,62065.7711903659
+Christopher Walken,/m/016fjj,61139.4163964799
+Kelly McGillis,/m/01r2q_,48633.6266790181
+Rajesh Khanna,/m/061zc_,48170.449282075
+Benicio del Toro,/m/01qscs,45964.1691622853
+Kirk Douglas,/m/0j582,42851.7770755239
+Neve Campbell,/m/0l8v5,40778.8631954941
+Tara Reid,/m/032wdd,40555.3963861415
+Bette Davis,/m/0h1m9,39550.0181605526
+Giancarlo Esposito,/m/0807ml,35572.0240852246
+Martin Sheen,/m/0hvb2,34181.0120944053
+Tony Curtis,/m/0hwqg,34154.2984876251
+Anthony Johnson,/m/0fdb14,33377.653477603
+Gregory Peck,/m/0k9j_,32919.0386627343
+Robert Duvall,/m/015c4g,30379.701879494
+Orson Welles,/m/05kh_,30379.701879494
+Rita Hayworth,/m/01pl9g,29964.1740422365
+Deepak Chopra,/m/01rp3t,29287.0175667057
+Tyrese Gibson,/m/01l1b90,28209.7231738158
+Rajpal Yadav,/m/05qtcv,26607.1949609564
+Jagadish,/m/026xrvd,26473.3829643994
+Seth Green,/m/0gz5hs,26147.4739074267
+Shirley MacLaine,/m/01w1kyf,25239.4686334195
+Mischa Barton,/m/01qn8k,23623.5779030401
+Asia Argento,/m/028pzq,22961.7604884524
+Girija,/m/02qd2vx,21653.6172970861
+Matt Stone,/m/01_x6d,20822.5616225711
+Stephen Amell,/m/03c0g4b,20115.1326672401
+Pam Grier,/m/0418ft,19991.5059480561
+Teddy Pendergrass,/m/01m79cb,18560.2433975024
+Olivia Newton-John,/m/0dzlk,18267.8349194323
+Christopher Plummer,/m/01ycbq,18160.1054801433
+Jaclyn Smith,/m/03f2lp,17759.9675627842
+Isabelle Huppert,/m/012g92,17735.7819052872
+Stephen Baldwin,/m/018yhr,17128.9808469487
+Beena,/m/0gbwnxv,16651.8933300975
+Lou Diamond Phillips,/m/031zkw,15900.7626752008
+Kal Penn,/m/03l3ln,15559.2090173092
+Ving Rhames,/m/032zg9,15482.2594178171
+Melissa Etheridge,/m/0lgsq,15205.2408596454
+David Suchet,/m/013bd1,14697.3735029973
+Alex English,/m/01jr5h,13835.5379886855
+Kate Jackson,/m/01phkr,13420.0101514279
+Alan Gregory,/m/0j737dq,13343.0605519358
+Omar Epps,/m/02_tv5,13235.3311126468
+Suresh Gopi,/m/05j12n,13189.1613529515
+Victoria Abril,/m/03vfjv,12758.2435957956
+Christine Baranski,/m/02__7n,12650.5141565066
+Reena Roy,/m/0266d2k,12495.9495714962
+Bob Weir,/m/02v1vq,12327.3258386396
+Les Claypool,/m/0dw3l,11634.7794432105
+Jeetendra,/m/043cl9,11311.5911253435
+Duane Davis,/m/03nrwdy,11026.0281635919
+Stephen Collins,/m/01wrv9,10018.8378538757
+Tommy Wiseau,/m/0djhfk,9464.80073753232
+James Burke,/m/03m4wg6,9341.6813783449
+Howard Jackson,/m/0bxppg,9003.10314057952
+Blythe Danner,/m/01bcq,8987.71322068109
+William Baldwin,/m/018yj6,8956.93338088424
+Natasha Henstridge,/m/0346l4,8841.89679129866
+Müjde Ar,/m/04fd3kh,8833.81402169683
+Richard Hamilton,/m/02wb_59,8787.64426200155
+Brad William Henke,/m/02q288g,8750.38736958557
+Chazz Palminteri,/m/02t_v1,8556.79546352515
+Juan Fernández,/m/03gtp3c,8495.23578393145
+Ahsaas Channa,/m/04mz6m8,8372.11642474403
+Smita Patil,/m/07hpqm,8325.94666504875
+Peter Jason,/m/03d663h,8182.682007178
+Lisa Ray,/m/07brgk,8125.87770636921
+Nicole Eggert,/m/0d1bq3,7864.24906809596
+Rajnikanth,/m/02wmbg,7294.82203185417
+Gabriel Byrne,/m/01j5sd,7294.82203185417
+Zhang Ziyi,/m/0jlv5,6956.24379408879
+John Garfield,/m/013846,6910.07403439351
+Taraji P. Henson,/m/0blbxk,6863.90427469823
+Vittorio Gassman,/m/0c0qw,6817.73451500295
+Michael Flynn,/m/0ghgx0p,6679.22523591711
+Chiwetel Ejiofor,/m/05vsxz,6556.1058767297
+Clea DuVall,/m/01y9xg,6509.93611703442
+Peggy Lipton,/m/06xz0d,6509.93611703442
+Tony Bill,/m/02qh53w,6309.86715835488
+Cesar Romero,/m/022q4j,6186.74779916747
+Vittorio de Sica,/m/07y_r,6017.45868028477
+William Daniels,/m/0309r1,5894.33932109736
+Jorge Sanz,/m/02q64y2,5878.94940119894
+Sukumari,/m/0fy2s1,5801.9998017068
+Gregory Smith,/m/03_nv3,5771.21996190995
+Lance Henriksen,/m/02zhkz,5032.50380678548
+Diahann Carroll,/m/01gvvn,4986.3340470902
+Jennifer Allen,/m/0gbymbx,4970.94412719177
+Barry Corbin,/m/04vcdj,4875.75462263484
+Annabella Sciorra,/m/0338ws,4755.4852486138
+Jeffrey Tambor,/m/02r_d4,4702.14981192877
+Joe Silver,/m/0g9z_j9,4643.13254319729
+Todd Bridges,/m/031x3g,4524.6364501374
+Kym Whitley,/m/08ynj7,4447.68685064527
+Yoshitaka Amano,/m/02149s,4370.73725115314
+Upasana Singh,/m/04yg_0x,4324.56749145786
+Ji Wang,/m/0c03p6l,4293.787651661
+Harry Carey,/m/03fpwp,4263.00781186415
+Gretchen Mol,/m/02l6dy,4093.71869298146
+Maciej Stuhr,/m/0drwr8m,4062.9388531846
+Sydney Pollack,/m/029m83,3979.37068001869
+John Forsythe,/m/01zvxq,3832.09005470821
+Corbin Bernsen,/m/033db3,3755.14045521607
+Satish Shah,/m/08y7b9,3662.80093582551
+Saikumar,/m/02pp77c,3662.80093582551
+Vijayaraghavan,/m/04mz092,3616.63117613023
+Daniel Baldwin,/m/018yh9,3601.24125623181
+William Petersen,/m/038bht,3601.24125623181
+Kevin Pollak,/m/02lf1j,3570.46141643495
+Leslie Howard,/m/0lcf1,3555.07149653653
+Alex Wright,/m/03jny2n,3374.79684329144
+Dylan Walsh,/m/07g7jw,3370.39245775541
+Robert Hoy,/m/0b6frgy,3278.05293836485
+Pete Postlethwaite,/m/018swb,3262.66301846642
+Brenda Fricker,/m/02ymv4,3247.273098568
+So Ji-sub,/m/0ccjr7,3185.71341897429
+John Archer,/m/027kj6l,3124.15373938059
+Manoj Joshi,/m/02q3h_p,3062.59405978688
+Lee Strasberg,/m/02rbgt,3031.81421999003
+Sean Pertwee,/m/01xq7p,3001.03438019317
+Vineet Kumar,/m/027lhzz,3001.03438019317
+Joanna Cassidy,/m/06lj1m,2954.86462049789
+Suzy Amis,/m/063gtr,2954.86462049789
+Omar Gooding,/m/05cgxx,2954.86462049789
+Peter Ho,/m/04jn0yf,2877.91502100576
+Michael Byrne,/m/0c6mv6,2795.44113819882
+Robert Lloyd,/m/01w170v,2754.79566181835
+Paul Hampton,/m/0k36s5,2708.62590212307
+Bárbara Mori,/m/04wwys,2585.50654293566
+Barbara Carrera,/m/05k4y7,2562.93533853737
+Adewale Akinnuoye-Agbaje,/m/07f3xb,2431.60734395139
+Dominic Chianese,/m/02lfns,2431.60734395139
+Nedumudi Venu,/m/02hkw6,2431.60734395139
+Karan Shah,/m/0gc8y44,2370.04766435769
+Richard Greene,/m/0g4tydx,2354.65774445926
+Morgan Brittany,/m/046j_1,2354.65774445926
+Robert Carradine,/m/026qxz,2308.48798476398
+Eric Bogosian,/m/01ngvm,2293.09806486555
+Miranda July,/m/06s5pl,2293.09806486555
+John Lurie,/m/01nz7jg,2263.10561631932
+Jessica Steen,/m/042g8x,2169.97870567814
+Christine Lahti,/m/030b93,2123.80894598286
+Ai Wan,/m/0gdmgc6,2112.35598233752
+Mathieu Amalric,/m/02qmdqm,2093.02910618601
+Amy French,/m/0dm38rk,2093.02910618601
+Marcia Strassman,/m/03wlz0,2093.02910618601
+Steven Brand,/m/026z6n_,2077.63918628758
+Michael Bowen,/m/0fd16g,2046.85934649073
+Perry Lopez,/m/02z5bft,2000.68958679545
+Nancy Marchand,/m/03zyvw,1969.9097469986
+Amy Locane,/m/08m038,1969.9097469986
+Ruby Lin,/m/04rfng,1918.80902924788
+Shin Min-a,/m/0b3t4v,1892.96014750646
+Nicolas Maury,/m/0g6z952,1877.57022760804
+Rudy Ray Moore,/m/01rjrwm,1860.87130401781
+Amy Hathaway,/m/0gbwmp3,1816.01054801433
+Gudrun Landgrebe,/m/09d6hv,1800.6206281159
+Ellen Corby,/m/055jj1,1769.84078831905
+Robert Picardo,/m/02jt4y,1762.9307090695
+William Frawley,/m/01m5lf,1754.45086842062
+John Hawkes,/m/0785v8,1754.45086842062
+Samyuktha Varma,/m/05vvl1,1708.28110872534
+Saul Rubinek,/m/0652ty,1677.50126892849
+Renata Dancewicz,/m/02qgz42,1662.11134903007
+Cochin Haneefa,/m/0f2c8g,1646.72142913164
+Michael Lonsdale,/m/08sz0k,1631.33150923321
+Stan Shaw,/m/02vst7p,1630.29478989046
+Peppino De Filippo,/m/08392m,1600.55166943636
+Jack Warden,/m/02wr6r,1596.8337793796
+Javier Gurruchaga,/m/0cg5b04,1516.50869962932
+Kim Tae Woo,/m/0hfy630,1511.32230807405
+Craig T. Nelson,/m/0338g8,1477.86129756319
+Miles Thompson,/m/0k0jml,1468.41310137824
+Bill McKinney,/m/04lrv3,1455.55395722261
+Kay Francis,/m/02_wnq,1425.81083676851
+Dan Hedaya,/m/05cl2w,1325.42780523592
+Estelle Parsons,/m/039whv,1286.38995963991
+Joss Ackland,/m/03xk1_,1258.50578421419
+Joo Ji Hoon,/m/026sphz,1230.62160878847
+Fredric March,/m/0h1_w,1169.27642285188
+Martin McCann,/m/02rqyvw,1159.98169770997
+Eve Miller,/m/04gqlx0,1142.71944771387
+Bo Svenson,/m/082_v4,1124.66174217073
+Sudesh Berry,/m/0cnxwrq,1115.36701702882
+Bob Hoover,/m/03pkww,1115.36701702882
+Jane Hoffman,/m/05wxj_z,1094.91862171663
+Izabela Kuna,/m/0gbqkqv,1089.34178663148
+Arj Barker,/m/01qbb_,1081.90600651796
+Angell Conwell,/m/0cj0pq,1076.32917143281
+Barbara Steele,/m/03yhc3,1074.47022640443
+Paul Muni,/m/0c92y,1064.55297083442
+Julia Jentsch,/m/08r0q3,1042.86816092195
+Lady Reed,/m/0gbyhr9,1039.15027086519
+Edgar Buchanan,/m/05qzxw,1031.05305217179
+Genevieve Buechner,/m/026zq2j,1024.27871063813
+Roy Roberts,/m/05xl3r,1009.40715041108
+Florence Rice,/m/041b8d,1008.71977306338
+Meiko Kaji,/m/0576kw,990.81770012727
+Allan Hawco,/m/09g8835,981.522974985363
+Larry Parks,/m/013823,962.93352470155
+Lobo Sebastian,/m/0bgchsp,933.190404247447
+Mark Humphrey,/m/03qcr2y,900.775590706044
+James Neill,/m/03cd25d,896.01150367982
+Marc Platt,/m/06rfnb,878.44231159763
+Lou Castel,/m/03d5tfj,876.581205005262
+Keith Diamond,/m/02vqm5_,842.10209785676
+Arun Bakshi,/m/0gbwskz,840.243152828379
+Melvyn Douglas,/m/015gy7,790.051637062082
+Guinevere Turner,/m/03g4xn,786.333747005319
+James Gleason,/m/04x9b0,782.615856948557
+Jonathan Scarfe,/m/03gtq7t,769.603241749887
+Aaron Pearl,/m/0gbyyv0,762.167461636362
+Burke Morgan,/m/0hpx6x7,740.720423762408
+James Pax,/m/0b7n19,698.963330671395
+Vic Tayback,/m/03gkd7,691.52755055787
+Roma Alvarez,/m/03jny6z,688.609439176108
+Tanuja Samarth,/m/07tcjt,665.50232016053
+Maria Botto,/m/05pvb4j,645.053924848335
+Leo Gorcey,/m/0671gz,643.194979819954
+Sandra Prinsloo,/m/027dv5t,626.464474564522
+Tracy Wright,/m/0cc9plh,620.887639479377
+Kevin O'Connor,/m/07gm7s,620.887639479377
+Mathieu Carrière,/m/06prxs,617.887388666129
+ZaSu Pitts,/m/01lr4p,614.165175481394
+Nancy Valen,/m/0bqfbt,604.157134223945
+Wallace Reid,/m/03q8vb,602.998535927186
+Rod Britt,/m/0lr37gh,598.580299138801
+Charles Meredith,/m/0gr66w,552.106673429267
+John5,/m/01q_wyj,547.165338156151
+Shafi Inamdar,/m/02w09gx,543.443124971415
+Bernie Coulson,/m/0jz5cb,531.658278117072
+Anne Krigsvoll,/m/04ghdvq,525.048695793938
+Andrew Divoff,/m/05pqxk,522.363552975165
+Ellen Geer,/m/0d15j6,487.043597435919
+Rosemary Forsyth,/m/03wc_yl,485.184652407538
+Maria Maj,/m/0gcybh7,474.030982237249
+Huntz Hall,/m/027_zc,464.736257095342
+Claire Rankin,/m/0b3xxx,461.01836703858
+Kareem Grimes,/m/03jnxrx,449.864696868292
+Kathryn Hays,/m/038xl6,444.804475575918
+Alice Barrett,/m/034dbm,431.275246584478
+Paul Moyer,/m/095wc8,410.826851272283
+Michael O'Keefe,/m/069d8x,379.224785789799
+Edward Everett Horton,/m/0197p7,368.071115619511
+Wally Martin,/m/0j1wnb5,366.21217059113
+Tim Brooke-Taylor,/m/0fcj4,364.353225562748
+Mary Garvey,/m/0gcj27h,361.054678919365
+Michael Kopsa,/m/0dtd8b,342.045885222172
+Janet Julian,/m/0706ft,336.469050137028
+Terry-Thomas,/m/01k109,327.174324995121
+Jamaica Carter,/m/03jnyff,327.174324995121
+Tracey Cherelle Jones,/m/043q4nc,325.31537996674
+Donald Crisp,/m/03bdm4,321.597489909977
+Patrice Wymore,/m/03h5fvf,321.597489909977
+Marius Weyers,/m/06_1tj,316.020654824833
+Vincent Beck,/m/0gc9_ym,310.443819739689
+Erwin Geschonneck,/m/02qyp1n,304.866984654545
+Skip Homeier,/m/098vq6,299.290149569401
+Victoria Racimo,/m/0jxx3z,297.431204541019
+Sheetal Shah,/m/0gcxktp,295.572259512638
+Judi Evans,/m/034c1p,291.854369455875
+Lynn Lowry,/m/058w0c,289.995424427494
+Hector Elias,/m/05pxr49,284.41858934235
+Robert Ginty,/m/03dmy0,280.700699285587
+Rodney A. Grant,/m/03ydsb,278.841754257205
+Joy Sengupta,/m/01z0p8w,278.841754257205
+Peter Gantzler,/m/04mnrpv,271.721562485707
+Gerrit Graham,/m/0byzg7,271.40597414368
+Richard Libertini,/m/0bh6gr,263.970194030155
+Brian Aherne,/m/04x8_g,263.970194030155
+Brooke Webster,/m/0gbwy_h,262.111249001773
+Tannishtha Chatterjee,/m/04gl1d0,260.252303973392
+AlexSandra Wright,/m/0gbxl2y,260.252303973392
+Juanita Jennings,/m/03jnxww,256.534413916629
+Mark Baer,/m/0j737d7,254.675468888248
+Juzo Itami,/m/02d7rn,252.816523859866
+George Macready,/m/06l0pj,249.098633803104
+James Frawley,/m/025z88d,243.521798717959
+Anil Nagrath,/m/0gc4h6t,241.662853689578
+Hanns Zischler,/m/09k3x_,241.662853689578
+Allen Cutler,/m/0h8pnlw,239.803908661197
+Pete Koch,/m/03yft79,234.227073576053
+Brandon Ratcliff,/m/0287qtg,232.368128547671
+Tawny Dahl,/m/03jny1r,227.055004268879
+Nicholas Pryor,/m/0ksyvw,223.332791084143
+Richard Cetrone,/m/0bgcht7,221.471684491775
+Dian Bachar,/m/05wxzz,217.49656832062
+Guillermo Montesinos,/m/0cg5bly,204.483953121951
+Najarra Townsend,/m/0k0jn4,202.860618568097
+Lalitesh,/m/0gc7bhf,197.048173008425
+Karthika Mathew,/m/09gctyq,197.048173008425
+Edith Clever,/m/07kh372,193.555085606257
+Jane Connell,/m/01wb7j_,193.330282951662
+Adele Jergens,/m/071ydw,192.448502869785
+Jamie Uys,/m/02xyxp,190.245225244987
+Larry Bryggman,/m/03jyqb,188.144075659367
+Doug McGrath,/m/02r5d3j,187.6151165851
+Ruth Chatterton,/m/0173p_,186.26679494125
+Renée Adorée,/m/02l53h,177.904994418285
+Cleo Madison,/m/027_nf_,177.540725179732
+Adrienne-Joi Johnson,/m/0d26p8,176.071929107924
+Yoshio Harada,/m/0chg_3,172.767137946357
+Walter Robles,/m/0gb_brf,172.206786895549
+Thomas G. Waites,/m/0kry2z,171.665540892502
+Michelle Von Flotow,/m/0gc27kf,169.065359683239
+Sirena Irwin,/m/094qth,166.593116160475
+Kim Miyori,/m/083p17,166.3411551322
+Tully Marshall,/m/06mwbj,161.922836262764
+Don S. Davis,/m/02_36w,154.943403665231
+Hal Fishman,/m/06k1vl,145.227211599967
+Kazuko Yoshiyuki,/m/05zs55n,143.730566164438
+Michael Kutter,/m/0bwb3f8,142.46658008034
+Roman Gancarczyk,/m/0bfmxbf,142.397753236121
+Liris Crosse,/m/03jnxxl,141.555221420448
+Connor Christopher Levins,/m/0gbymnz,141.181982944964
+Maria Mamona,/m/0hnhfvk,140.270024857616
+Gary Dubin,/m/02pnjkh,138.617629276833
+Armin Jordan,/m/0bqb9n,134.978522591459
+Ramón Novarro,/m/02qhrg,134.083905918088
+Raymond Hatton,/m/0f3hp6,133.000265576676
+Brad Greenquist,/m/0k1vd2,132.558845480627
+Jean-Claude La Marre,/m/0d6b35,132.04656726117
+Judith Lowry,/m/02qjkcy,131.273648917795
+Alice Playten,/m/0gd2n3,130.17205186394
+Kylan Bolton,/m/03jnxt8,127.811419409636
+Kiran Janjani,/m/03cccpg,127.234459720325
+Geraldine Farrar,/m/01sg96,127.050860211349
+Wolfgang Schöne,/m/0bmcv92,126.084967142389
+Heidi Bassett,/m/0gdkhr3,125.577821788885
+J. Carrol Naish,/m/04f6fn,122.186315423069
+Ken Gampu,/m/0fdctd,118.380673899798
+Ji-seob So,/m/0gdl1sz,117.245461919073
+David Gorcey,/m/0260wtf,116.511849266763
+Liam Waite,/m/0ks8b0,114.002502334077
+Brad Heller,/m/0clffnj,110.159705385563
+Nic De Jager,/m/0gc7tpd,109.670291031817
+Allan Kolman,/m/0gdk2x0,109.526168882487
+Boguslawa Schubert,/m/0gdm00w,109.442717647924
+Zoë Tamerlis,/m/0g4tyd8,109.289320399914
+Graham McNamee,/m/07g4h_,108.874508822731
+Dejuan Guy,/m/03jny56,108.690909313755
+Mo'Nique Imes-Jackson,/m/04znsy,108.201310623153
+Selma Mcpherson,/m/03jny09,107.22053048756
+Miriam Feldman,/m/0bwb3gd,106.726207221275
+Małgorzata Hajewska,/m/04mnrph,105.57437110494
+Frank Krog,/m/053j7xf,105.429098822084
+Jeff Juday,/m/0ddztn,104.333972484198
+Valérie Dréville,/m/0cv895v,104.268017771683
+Ronald Mlodzik,/m/0k36sl,102.398661833919
+Zoë Tamerlis Lund,/m/06w3ls,100.191552216366
+Theodore Roberts,/m/0grjc6,99.8781328829101
+Robert Catrini,/m/0gbxsl5,98.1079047814406
+Sam Maccarone,/m/03cxtgs,97.8325948752978
+Elspeth Kydd,/m/0gc0szf,97.2206882659222
+Andrzej Hudziak,/m/04mnrnn,95.4717446674876
+Jean-Pierre Kalfon,/m/0cc9gb,94.7373466315839
+Rafal Mackowiak,/m/0gc38lt,94.5009965174171
+Cleopatra Singleton,/m/03jnybw,93.0849510508004
+Aleksandr Novikov,/m/0g4_nb_,90.5145579251373
+Dorothy Janis,/m/0ff37r,90.397576193109
+Kyle McCulloch,/m/02cm2m,90.3824583924534
+Cliff DeYoung,/m/07jbhb,89.5985863058739
+Reiner Goldberg,/m/05ztstb,88.2097981316096
+William Gargan,/m/04x93v,87.9441647994742
+Mimi Weddell,/m/07s8ksr,87.5769657815223
+Brad Rijn,/m/07w41wk,87.3933662725464
+Limary Agosto,/m/03jny7n,87.2429074691618
+Ray Girardin,/m/02ps3gb,86.9264891629676
+Sam Levene,/m/05v_98,86.6589682366426
+M. G. Soman,/m/07l4md,85.8174323326582
+V.S. Brodie,/m/0b7bwqw,85.0104790283906
+Namrata Singh Gujral,/m/06n7sx,84.1922199950788
+Sy Richardson,/m/0415270,83.3541770750757
+Tamara LaSeon Bass,/m/03jnyld,82.0689805122442
+Susan Petrie,/m/0gcbkl_,82.0689805122442
+Freez Luv,/m/03jnxvp,81.5223188841238
+Carlie Westerman,/m/0jtg3n,81.5181819853163
+Harry Cording,/m/03y8mf2,77.4789927878457
+Kimmy Suzuki,/m/0gdk_8f,76.1937962250142
+Fan Bing-Bing,/m/09wn3y,75.0921991711585
+Elena Karam,/m/0jtcrj,74.5414006442307
+Fagun Thakrar,/m/05p05y3,74.3578011352548
+Roland Culver,/m/0412scr,74.1742016262789
+Kaylan Bolton,/m/03jnxtz,73.9906021173029
+"Alan Hale, Jr.",/m/02qn4z,73.3407783068242
+Colette Kilroy,/m/0bg70sm,72.3382065365195
+Michael Thys,/m/0gc0mkw,72.3382065365195
+Louw Verwey,/m/0k56qf,71.6813227723349
+Édith Scob,/m/03qckt2,71.0530099736879
+JoNell Kennedy,/m/0g98ds4,70.869410464712
+Meika Seri,/m/0gc5pyv,69.2170148839285
+Vlasta Vrana,/m/026_y_d,67.2339414324455
+Rick Edelstein,/m/0bgcj4f,66.8302212672413
+Kristin Kajander,/m/0gct1by,66.1100680208271
+Layke Anderson,/m/0bxnq4,65.3761614718122
+Delphine Chuillot,/m/04p74f2,65.3614251954338
+Hildy Brooks,/m/0gc9cpb,63.5254301056745
+Benny Bartlett,/m/04gs7qr,61.6894350159151
+Anastasia Sharp,/m/0gc80lv,60.1194815372267
+Yvonne Minton,/m/04md2m,59.119041890252
+N!xau,/m/01mrs8,56.1814497466369
+Vera Blacker,/m/0gc51t6,55.4470517107332
+Clint Carleton,/m/0gc13w6,55.4470517107332
+Maxine Burth,/m/0gc5szl,55.4470517107332
+Vidar Sandem,/m/0bwh7d8,55.0798526927813
+Kitty Summerall,/m/0gcjn9v,54.7126536748294
+Martin Sperr,/m/064ktx7,54.3454546568776
+Hobart Bosworth,/m/0dxnfv,51.9586610401904
+Olan Thompson,/m/03jny4j,50.3676263479331
+Andrzej Kuchno,/m/0hnhfy5,49.5718674235032
+Julia Granstrom,/m/08w75d,46.8178747888641
+Junko Miyashita,/m/0h7_6m,46.4506757709122
+Natasha Slayton,/m/026zpch,43.0829656764941
+J. Patrick McCormack,/m/03z8yd9,42.4142967700076
+Joe Seakatsie,/m/0gc46rx,35.416937537939
+Laetitia Spigarelli,/m/0h4yg0j,23.8679361668719
+Scott B. Morgan,/m/09zvk56,0
+Aman Jalali,/m/0gb_czr,0
+Anahita Farroschad,/m/0bwb3g4,0
+Karin Krick,/m/0bwb3fx,0
+Rémy Carpentier,/m/0gdkml7,0
+Charles Perley,/m/03xxf9j,0
+Mario William Jackson,/m/03jnxy8,0
+Paddy O'Byrne,/m/0k56qm,0
+Stephanie Corler,/m/0bwb3fp,0
+Asondra Hunter,/m/03jny0_,0
+Frederick Ricks,/m/03jnyhz,0
+Fanyana H. Sidumo,/m/0gc83t8,0
+Brian O'Shaughnessy,/m/0cmbfw3,0
+Ewa Worytkiewicz,/m/0hnhfsb,0
+James Kayten,/m/0g98dwd,0
+John Woehrle,/m/0gbwd90,0
+Bill Oland,/m/0g4tydl,0
+Candy Brown Houston,/m/03jnxps,0
+Manianpilla Raju,/m/047twb3,0
+Glorya De Lani,/m/0gbx5gk,0
+Migdalia Melendez,/m/0gbzvqn,0
+Arthur C. Stone,/m/0gch_ws,0
+T. Wendy McMillan,/m/0gchxbs,0
+Danielia Falcon,/m/0gc4xh1,0
+Tracy Kimme,/m/0gc4v9r,0
+Walter Youngblood,/m/0gc4tw7,0
+Stephen E. Miller,/m/0jt3m3,0
+Shin Kishida,/m/03ccs9p,0
+Amentha Dymally,/m/03jny8b,0
+Ji-Yeong Hong,/m/0bdtfps,0
+Hideaki Esumi,/m/0gdk2yd,0
+Georgiy Zhzhonov,/m/07kt8y,0
+Hanka Posnanska,/m/0gbxqtt,0
+Nikolai Batalov,/m/0jt1lz,0
+Gô Awazu,/m/0gc67pm,0
+Marc Di Nunzio,/m/0j737dx,0
+Michael Phenicie,/m/0gc84_g,0
+Sherry Sailer,/m/0j737dj,0
+Deon Gregory,/m/03jny68,0
+Silvie Debois,/m/0j1wnc8,0
+Fred Doederlin,/m/0k36ss,0
+Kurt Woodruff,/m/0j737d1,0
+Serese Teate,/m/03jny3v,0
+Horace B. Carpenter,/m/03d8cc3,0
+Sheila L. Ward,/m/03jnydd,0
+Ekaterina Zelyonaya,/m/09rnmn,0
+Regina Yanushkevich,/m/0g4_nd0,0
+Vladimir Uralsky,/m/0jt1q2,0
+Viktor Lazarev,/m/0g4_ncy,0
+Tsifan Kyriya,/m/0g4_ncv,0
+Bozhak Besprizornykh,/m/0g4_ncr,0
+Vladimir Vesnovsky,/m/0g4_ncc,0
+Mariya Andropova,/m/0g4_nc5,0
+Hatsuo Yamaya,/m/0gc4f1m,0
+Camil Ducharme,/m/0gbxbck,0
+Mikhail Zharov,/m/07m08h,0
+Barry Baldaro,/m/0gbwz67,0
+Mikhail Dzhagofarov,/m/0g4_nbq,0
+Yvan Kyrlya,/m/05zqdwf,0
+Mariya Gonfa,/m/0g4_nck,0
+"Lon Chaney, Sr.",/m/01sy5c,0
+Wojciech Michniewski,/m/01w710z,0
+Chris Krisea,/m/0gcdnn4,0
