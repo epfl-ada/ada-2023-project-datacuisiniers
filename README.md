@@ -66,7 +66,7 @@ Success for an actor can also be seen as the fact that people are talking about 
 | Nino | Leading character classification  | plot analysis<br> 1) Analyse the frequency of the character name appearance in the plot summary 2) Merge with the Characters dataset 3) Separate main characters from secondary character <br>test |
 | Nino & Anaëlle | Revenues | 1) Creating cumulated movie revenues by actor <br> 2) Assessing the causal effect of movie and actor characteristics on cumulated revenues using regressions  <br> 3) Identifying and understanding the contributing features |
 | Anaëlle | Awards | 1) Including datasets on Oscars <br> 2) Using supervised ML to predict awards reception <br> 3) Exploring the bias of the results and improving them with more exhaustive datasets |
-| Pascal | Ratings | ratings analysis<br>insights<br>test |
+| Pascal | Ratings | 1) Preprocessing datasets for ratings analysis<br> 2) Compute ratings for actors<br>3) Initial plots for analysis<br> |
 | Quentin | TrendsGoogle | trends<br>insights<br>test |
 | Malo | Longevity | 1) Preprocessing data for longevity analysis<br> 2) Frequency, career span and number of movies plots<br> 3) Regression and combination between factors |
 
