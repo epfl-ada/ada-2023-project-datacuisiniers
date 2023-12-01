@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import os
+import json
 import gzip
 import pandas as pd
 from tqdm import tqdm
@@ -32,3 +33,70 @@ def extract_character_names(movie_plots):
                         character_names.append((mention, j))
 
     return character_names
+
+########################################### LONGEVITY ###########################################
+def format_of_country_change(x):
+    n = len(x)
+    if n == 0:
+        return np.nan
+    else:
+        return list(x.values())
+
+country_to_region = {
+    'United States of America': 'North America',
+    'Canada': 'North America',
+    'Mexico': 'North America',
+    'China': 'Asia',
+    'India': 'Asia',
+    'Russia': 'Europe',
+    'Indonesia': 'Asia',
+    'Pakistan': 'Asia',
+    'Brazil': 'South America',
+    'Nigeria': 'Africa',
+    'Bangladesh': 'Asia',
+    'Mexico': 'North America',
+    'Japan': 'Asia',
+    'Ethiopia': 'Africa',
+    'Philippines': 'Asia',
+    'Egypt': 'Africa',
+    'Vietnam': 'Asia',
+    'DR Congo': 'Africa',
+    'Turkey': 'Europe',
+    'Iran': 'Asia',
+    'Germany': 'Europe',
+    'Thailand': 'Asia',
+    'United Kingdom': 'Europe',
+    'France': 'Europe',
+    'Italy': 'Europe',
+    'Tanzania': 'Africa',
+    'South Africa': 'Africa',
+    'Myanmar': 'Asia',
+    'South Korea': 'Asia',
+    'Colombia': 'South America',
+    'Kenya': 'Africa',
+    'Spain': 'Europe',
+    'Argentina': 'South America',
+    'Ukraine': 'Europe',
+    'Uganda': 'Africa',
+    'Algeria': 'Africa',
+    'Sudan': 'Africa',
+    'Iraq': 'Asia',
+    'Poland': 'Europe',
+    'Canada': 'North America',
+    'Morocco': 'Africa',
+    'Saudi Arabia': 'Asia',
+    'Uzbekistan': 'Asia',
+    'Malaysia': 'Asia',
+    'Peru': 'South America',
+    'Angola': 'Africa',
+    'Ghana': 'Africa',
+    'Yemen': 'Asia',
+    'Nepal': 'Asia',
+    'Australia':'Oceania'
+}
+
+def get_region(country_list):
+    if isinstance(country_list, list):
+        first_country = country_list[0] if country_list else np.nan
+        return country_to_region.get(first_country, 'Other')
+    return 'Other'
