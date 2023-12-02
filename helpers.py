@@ -92,7 +92,9 @@ country_to_region = {
     'Ghana': 'Africa',
     'Yemen': 'Asia',
     'Nepal': 'Asia',
-    'Australia':'Oceania'
+    'Australia':'Oceania',
+    'New Zealand' : 'Oceania',
+    'Belgium' : 'Europe'
 }
 
 def get_region(country_list):
