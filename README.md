@@ -52,9 +52,9 @@ Success for an actor can also be seen as the fact that people are talking about 
 | Task                        | Start Date | End Date   |
 |-----------------------------|------------|------------|
 | Define Success Criteria and first analyses   |  -         | P2 Deadline|
-| Continue Analysis of Success incorporating feedback  | P2 Deadline| 24 Nov |
-| Grouping of our Analysis    | 24 Nov | 30 Nov  |
-| Develop Interactive Tools   | 30 Nov | 15 Dec  |
+| Continue Analysis of Success incorporating feedback  | P2 Deadline| 8 Dec |
+| Grouping of our Analysis    | 30 Nov | 8 Dec  |
+| Develop Interactive Tools   | 8 Dec | 15 Dec  |
 | Develop the storyline       | 30 Nov     | P3 Deadline    |
 | Finalize Project and Webpage    | 15 Dec   | P3 Deadline   |
 
