@@ -102,3 +102,82 @@ def get_region(country_list):
         first_country = country_list[0] if country_list else np.nan
         return country_to_region.get(first_country, 'Other')
     return 'Other'
+
+########################################### REVENUES ###########################################
+
+def count_unique(series):
+    """Aggregation function to get the length of list of unique values in dictionaries"""
+    if all(not my_dict for my_dict in series):
+        return None
+    else:
+        return len(set(val for sublist in series for val in sublist))
+
+def most_frequent_occ(series): 
+    """Aggregation function to get the most frequent value of a column"""
+    if not series.empty and not series.isna().all():
+        return series.mode().iloc[0]  
+    else:
+        return None
+    
+def most_frequent_in_dictionary(series):
+    if all(not my_dict for my_dict in series):
+        return None
+       
+    else:
+        # Flatten the list of dictionaries
+        flattened_values = [item for sublist in series for item in sublist.values()]
+
+        # Create a pandas Series from the flattened values
+        flattened_series = pd.Series(flattened_values)
+
+        # Calculate the mode of the flattened Series
+        mode_value = flattened_series.mode().iloc[0]
+        return mode_value
+    
+    
+########################################### OSCARS ###########################################
+
+def transform_features_all(input_features):
+    """Reverses encoding for Oscar prediction"""
+    string_indices = [0, 5, 6, 7, 8] 
+    
+    for index in string_indices:
+        if input_features[index] in gender_mapping:
+            input_features[index] = gender_mapping[input_features[index]]
+        elif input_features[index] in language_dict:
+            input_features[index] = language_dict[input_features[index]]
+        elif input_features[index] in genre_dict:
+            input_features[index] = genre_dict[input_features[index]]
+        elif input_features[index] in country_dict:
+            input_features[index] = country_dict[input_features[index]]
+        elif input_features[index] in ethnicity_dict:
+            input_features[index] = ethnicity_dict[input_features[index]]
+
+    return input_features
+
+def transform_features_select(input_features):
+    """Reverses encoding for Oscar prediction"""
+    string_indices = [0, 3, 4, 5] # to change if order of variables changes
+    
+    for index in string_indices:
+        if input_features[index] in gender_mapping:
+            input_features[index] = gender_mapping[input_features[index]]
+        elif input_features[index] in language_dict:
+            input_features[index] = language_dict[input_features[index]]
+        elif input_features[index] in genre_dict:
+            input_features[index] = genre_dict[input_features[index]]
+        elif input_features[index] in country_dict:
+            input_features[index] = country_dict[input_features[index]]
+
+    return input_features
+
+def concatenate_values_all(row):
+    """Concatenate values and transform the features into something readable by our model"""
+    InputArray = [row['Actor gender'], row['Actor age at movie release'], row['Actor height'],row['Movie runtime'], row['Persona'], row['languages'], row['genres'],row['countries'], row['Actor ethnicity']]
+    return transform_features_all(InputArray)
+
+
+
+def concatenate_values_select(row):
+    InputArray = [row['Actor gender'], row['Actor age at movie release'],row['Movie runtime'], row['languages'], row['genres'],row['countries']]
+    return transform_features_select(InputArray)
