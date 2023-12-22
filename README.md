@@ -37,7 +37,7 @@ The performance of an actor can greatly differ from a movie to another and it ca
 
 ### Longevity Analysis
 
-Another possibility to take into account to model an actor’s success can be through its longevity in the movie industry. In fact, we are trying to identify correlations between an actor's movie count, career span, and appearance frequency in films. This analysis addresses potential limitations related to geographical location (country of distribution), gender and historical periods, but we will try to make regression between them after having insights about the datas.
+Another possibility to take into account to model an actor’s success can be through its longevity in the movie industry. In fact, we are trying to identify correlations between an actor's movie count, career span, and appearance frequency in films. This analysis addresses potential limitations related to geographical location (country of distribution), gender and historical periods, but we will try to combine these factors to model longevity success.
 
 ### Awards analysis
 To proxy peers' rcognition, we will use awards, in particular Oscars, as a success outcome. Supervised ML methods will help us predict success from features included in the dataset and highlight the important ones for getting an Oscar.
