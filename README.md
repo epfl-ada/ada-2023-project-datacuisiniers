@@ -66,8 +66,7 @@ Success for an actor can also be seen as the fact that people are talking about 
 |----------|-------------------------------------------------|------------------------------------------------------|
 | Nino | Plot analysis: Persona Analysis  | 1) From ccprocessed dependencies in Standford CoreNLP dataset extract the agent verbs, patient verbs, and attributes as described in the paper<br> 2) Generate couples of {(agent verbs, patient verbs, attributes), word lemma}<br> 3) apply Dirichlet model for clustering|
 | Nino | Leading character classification  | 1) Analyse the frequency of the character name appearance in the plot summary<br> 2) Merge with the Characters dataset<br> 3) Separate main characters from secondary character test |
-| Anaëlle | Revenues | 1) Creating cumulated movie revenues by actor <br> 2) Assessing the causal effect of movie and actor characteristics on cumulated revenues using regressions  <br> 3) Identifying and understanding the contributing features |
-| Anaëlle | Awards | 1) Including datasets on Oscars <br> 2) Using supervised ML to predict awards reception <br>  |
+| Anaëlle | Revenues + Awards | 1) Assessing the causal effect of movie and actor characteristics on cumulated revenues using regressions  <br> 2) Identifying and understanding the contributing features <br> 3) Including datasets on Oscars & Using supervised ML to predict awards reception <br>|
 | Pascal | Ratings | 1) Preprocessing datasets for ratings analysis<br> 2) Compute ratings for actors<br>3) Initial plots for analysis<br> |
 | Quentin | TrendsGoogle | 1) Scraping of Google Trends data<br> 2) Calculate trends score<br> 3) Initial plots for analysis |
 | Malo | Longevity | 1) Preprocessing data for longevity analysis<br> 2) Frequency, career span and number of movies plots<br> 3) Regression and combination between factors |
