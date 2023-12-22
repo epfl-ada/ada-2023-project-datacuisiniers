@@ -53,11 +53,11 @@ Success for an actor can also be seen as the fact that people are talking about 
 
 | Task                        | Start Date | End Date   |
 |-----------------------------|------------|------------|
-| Define Success Criteria and first analyses   |  -         | 17 Nov |
+| Define success criteria and first analyses   |  -         | 17 Nov |
 | HW2 | 17 Nov | 1 Dec |
-| Continue Analysis of success with feedback  | 17 Nov | 8 Dec |
+| Continue analysis of success with feedback  | 17 Nov | 8 Dec |
 | Grouping of our analysis and storyline    | 1 Dec | 15 Dec  |
-| Finalize Project and Webpage    | 15 Dec | 22 Dec   |
+| Finalize project and webpage    | 15 Dec | 22 Dec   |
 
 # Organization within the team : #
 
